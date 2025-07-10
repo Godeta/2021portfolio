@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big | Arnaud GODET</title>
-    <link>https://godeta.github.io/en/tag/big/</link>
-      <atom:link href="https://godeta.github.io/en/tag/big/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://godeta.github.io/2021portfolio/en/tag/big/</link>
+      <atom:link href="https://godeta.github.io/2021portfolio/en/tag/big/index.xml" rel="self" type="application/rss+xml" />
     <description>big</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Portfolio 2021 - Arnaud GODET</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <url>https://godeta.github.io/2021portfolio/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
       <title>big</title>
-      <link>https://godeta.github.io/en/tag/big/</link>
+      <link>https://godeta.github.io/2021portfolio/en/tag/big/</link>
     </image>
     
     <item>
       <title>Geneanet to gedcom scraping</title>
-      <link>https://godeta.github.io/en/project/geneanet_scraper/</link>
+      <link>https://godeta.github.io/2021portfolio/en/project/geneanet_scraper/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/en/project/geneanet_scraper/</guid>
+      <guid>https://godeta.github.io/2021portfolio/en/project/geneanet_scraper/</guid>
       <description>&lt;p&gt;This is a 2nd year project from the IUT, we have a client and 2 of our professors as tutors, we work together using git and the Agile method (which means that we make multiple rendering to the client until the final app). &lt;a href=&#34;https://en.geneanet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geneanet&lt;/a&gt; is a website which host the genealogic trees of 4 million of users, however even if we can watch them (when they are public) for our client a genealogy enthusiast who wants to improve his family tree, it is annoying to rewrite in his software named Heredis every individual. Our job is to make an app which only needs the profil url and a click to get the whole family tree in a Gedcom file that the client can import in his software (Heredis).&lt;/p&gt;
 &lt;p&gt;The important development steps are :&lt;/p&gt;
 &lt;ul&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>NodeJS_WeatherLocation</title>
-      <link>https://godeta.github.io/en/project/nodeweatherloc/</link>
+      <link>https://godeta.github.io/2021portfolio/en/project/nodeweatherloc/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/en/project/nodeweatherloc/</guid>
+      <guid>https://godeta.github.io/2021portfolio/en/project/nodeweatherloc/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the project.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was a personnal project that I realised inspiring myself from the tutorial of Dan Shiffman from the channel &amp;ldquo;The coding Train&amp;rdquo;. As an user you can make a drawing and send it to the base like here :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;
@@ -50,9 +50,9 @@ and then look at the different content of the base, sort them by time or by name
     
     <item>
       <title>agario remix</title>
-      <link>https://godeta.github.io/en/project/agario/</link>
+      <link>https://godeta.github.io/2021portfolio/en/project/agario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/en/project/agario/</guid>
+      <guid>https://godeta.github.io/2021portfolio/en/project/agario/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Another personnal project of mine which I started mostly as a joke (making an agario game where you can play with my friends&amp;rsquo;s faces) but ended up having to learn networking in order to make it playable online and it became a pretty big project.
 Quick remarks :&lt;/p&gt;
