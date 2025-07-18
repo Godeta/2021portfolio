@@ -29,7 +29,7 @@
       <link>https://godeta.github.io/2021portfolio/fr/project/space_invaders/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/2021portfolio/fr/project/space_invaders/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/2021portfolio/space-invaders-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/space-invaders-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Un projet personnel réalisé principalement en Javascript avec la librairie P5.js. C&amp;rsquo;est un jeu Space invaders avec quelque images libre de droit, optimisé, disponible en ligne et avec quelque possibilitées (changer la difficulté, feu d&amp;rsquo;artifice lors de la victoire ou défaite&amp;hellip;.) On se déplace avec les flèches et on tire en appuyant sur la barre espace.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/space-invaders-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -77,7 +77,7 @@ et après regarder le contenu de la base et le trier par date ou par nom :&lt;/p
       <link>https://godeta.github.io/2021portfolio/fr/project/fireworks/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/2021portfolio/fr/project/fireworks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/2021portfolio/Fireworks-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le projet.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Fireworks-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le projet.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ce petit projet à 3 parties, des feux d&amp;rsquo;artifices normaux, des feux d&amp;rsquo;artifices avec des images pour particules (j&amp;rsquo;ai utilisé les visages de certains amis) et la plus intéressante, des feux d&amp;rsquo;articises sous forme de texte. Le tout est réalisé en utilisant P5.js une librairie pour Javascript.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Fireworks-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -88,7 +88,7 @@ et après regarder le contenu de la base et le trier par date ou par nom :&lt;/p
       <link>https://godeta.github.io/2021portfolio/fr/project/mastermind-js/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/2021portfolio/fr/project/mastermind-js/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/2021portfolio/Mastermind_JS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Mastermind_JS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ce projet fut réalisé avec un camarade de classe pour un cours sur les interfaces homme marchine. C&amp;rsquo;était notre premier projet avec Javascript et le jeu n&amp;rsquo;étant pas responsif il pourrait ne pas fonctionner correctement selon la taille de l&amp;rsquo;écran. Ce fut tout de même une experience enrichissante d&amp;rsquo;utiliser par exemple des animations CSS pour le menu et les méchaniques du jeu fonctionnent correctement.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Mastermind_JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
 </description>
